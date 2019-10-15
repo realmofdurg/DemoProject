@@ -1,7 +1,7 @@
 hey this is my first line!!!
 
 class Hello{
-	main(){
-		sysout("Hello");
+	public static void main(String [] args){
+		system.out.print("Hello");
 	}
 }
