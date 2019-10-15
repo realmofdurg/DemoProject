@@ -1,0 +1,7 @@
+hey this is my first line!!!
+
+class Hello{
+	main(){
+		sysout("Hello");
+	}
+}
