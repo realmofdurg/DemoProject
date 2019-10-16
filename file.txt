@@ -2,7 +2,7 @@
 
 class Hello{
 	public static void main(String [] args){
-		system.out.print("Hello");
+		system.out.print("Hello *****my name is durgesh****");
 	}
 }
 //cment
