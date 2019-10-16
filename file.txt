@@ -3,10 +3,11 @@ import java.util.*;
 
 class Hello{
 
-	void myMethod(){
+	static void myMethod(){
 		system.out.print("new function")
 	}
 	public static void main(String [] args){
 		system.out.print("Hello *****my name is durgesh****");
+		Hello.myMethod();
 	}
 }
