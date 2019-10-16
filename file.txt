@@ -6,8 +6,8 @@ class Hello{
 	static void myMethod(){
 		system.out.print("new function")
 	}
-	static void CrossMethod(){
-		system.out.print("new function")
+	static void CrossMethod(String str){
+		system.out.print(str)
 	}
 	public static void main(String [] args){
 		system.out.print("Hello *****my name is durgesh****");
